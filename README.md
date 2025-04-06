@@ -29,11 +29,20 @@ To facilitate collaboration and data management by integrating Microsoft 365 Gro
 ### 1. Create a Microsoft 365 Group
 1. Sign in at [admin.microsoft.com](https://admin.microsoft.com).
 2. Navigate to **Groups > Active groups**.
-3. Click **+ Add a group**.
-4. Choose **Microsoft 365** as the group type and click **Next**.
-5. Enter:
+![image](https://github.com/user-attachments/assets/1e40815b-c909-42b4-a4d2-146c66978c1a)
+
+3. Click **+ Add a Microsoft 365 group**.
+![image](https://github.com/user-attachments/assets/d21b1951-05d7-4723-a1bc-14225b240e02)
+
+4. Enter:
    - **Group name** (e.g., "Marketing Team")
-   - **Group email address**
+![image](https://github.com/user-attachments/assets/e9d38941-edee-4a95-92f1-c3293c6df9c1)
+   - **Assign Owners**
+![image](https://github.com/user-attachments/assets/717f2ad5-cdcc-4a90-ace2-2bc5ea5edab4)
+   - **Add Members**
+![image](https://github.com/user-attachments/assets/9a59e2a5-7997-4c25-a470-b46d9fd1f2f3)
+
+    - **Group email address**
    - **Description**
    - **Privacy** (Public or Private)
 6. Enable options like team creation and group management if needed.
