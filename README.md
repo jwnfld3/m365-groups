@@ -43,11 +43,12 @@ To facilitate collaboration and data management by integrating Microsoft 365 Gro
 ![image](https://github.com/user-attachments/assets/9a59e2a5-7997-4c25-a470-b46d9fd1f2f3)
 
     - **Group email address**
-   - **Description**
    - **Privacy** (Public or Private)
-6. Enable options like team creation and group management if needed.
-7. Add owners and members.
-8. Click **Create**, then **Close**.
+![image](https://github.com/user-attachments/assets/585f2225-657f-4cbd-8a84-5a3537d42b1f)
+
+5. Click **Create group**
+![image](https://github.com/user-attachments/assets/48d6a57a-9472-4824-bb7e-109671466ec1)
+![image](https://github.com/user-attachments/assets/6c5f27b9-1aa0-4088-98a1-06372bb48773)
 
 ---
 
